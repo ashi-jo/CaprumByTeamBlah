@@ -1,5 +1,5 @@
 # blah
 
 Aayushi Joshi
-Aayush Shah
-mahita samant
+ Aayush Shah
+ Mahita samant
